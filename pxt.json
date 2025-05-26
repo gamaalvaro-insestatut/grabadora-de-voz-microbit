@@ -1,10 +1,13 @@
 {
-    "name": "Prova 2",
+    "name": "Comunicación por radio",
     "description": "",
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "audio-recording": "*",
+        "datalogger": "*",
+        "radio-broadcast": "*"
     },
     "files": [
         "main.blocks",
